@@ -1,0 +1,26 @@
+employee_id,name,department,role,salary,hire_date,city,performance_score
+E101,John Doe,Engineering,Software Engineer,85000,2022-03-15,New York,8
+E102,Jane Smith,HR,HR Specialist,60000,2021-06-01,Los Angeles,7
+E103,Michael Green,Sales,Sales Manager,95000,2020-01-10,Chicago,9
+E104,Emily White,Marketing,Marketing Analyst,55000,2023-05-18,San Francisco,6
+E105,David Black,Engineering,Tech Lead,125000,2019-08-24,Seattle,10
+E106,Sarah Brown,HR,HR Director,110000,2018-11-12,New York,9
+E107,James Wilson,Sales,Account Executive,70000,2022-07-01,Los Angeles,8
+E108,Patricia Taylor,Marketing,Marketing Director,105000,2021-02-28,Chicago,8
+E109,Robert Miller,Engineering,Software Engineer,90000,2023-01-15,San Francisco,7
+E110,Linda Davis,Sales,Sales Associate,48000,2023-11-01,Seattle,5
+E111,William Garcia,Engineering,QA Engineer,75000,2022-10-10,New York,8
+E112,Elizabeth Martinez,HR,Recruiter,65000,2023-04-01,Los Angeles,7
+E113,Richard Robinson,Sales,Sales Director,130000,2017-05-15,Chicago,9
+E114,Barbara Clark,Marketing,SEO Specialist,50000,2024-01-10,San Francisco,6
+E115,Joseph Rodriguez,Engineering,DevOps Engineer,98000,2021-09-01,Seattle,8
+E116,Susan Lewis,Engineering,Backend Engineer,105000,2022-04-20,New York,9
+E117,Thomas Lee,Sales,Account Executive,72000,2023-06-15,Los Angeles,7
+E118,Jessica Walker,Marketing,Content Strategist,58000,2023-08-12,Chicago,8
+E119,Charles Hall,Engineering,Frontend Engineer,82000,2023-02-28,San Francisco,7
+E120,Nancy Allen,HR,HR Coordinator,45000,2024-03-01,Seattle,4
+E121,Daniel Young,Engineering,Data Scientist,115000,2020-11-15,New York,9
+E122,Sandra Hernandez,Sales,Sales Associate,46000,2024-02-15,Los Angeles,6
+E123,Matthew King,Marketing,PR Manager,78000,2021-12-01,Chicago,8
+E124,Ashley Wright,Engineering,Engineering Manager,145000,2018-04-01,San Francisco,10
+E125,Mark Lopez,Sales,Sales Associate,49000,2024-05-01,Seattle,6

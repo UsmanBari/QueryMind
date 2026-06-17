@@ -1,0 +1,36 @@
+order_id,customer_id,product_name,category,quantity,price,discount,total,order_date,status,payment_method
+O1001,C501,Wireless Mouse,Electronics,2,25,2.5,47.5,2024-05-01,delivered,card
+O1002,C502,Running Shoes,Clothing,1,120,12.0,108.0,2024-05-02,delivered,paypal
+O1003,C503,Coffee Maker,Home & Kitchen,1,85,0.0,85.0,2024-05-03,pending,card
+O1004,C504,Leather Jacket,Clothing,1,250,25.0,225.0,2024-05-03,cancelled,card
+O1005,C505,Desk Lamp,Home & Kitchen,3,30,3.0,87.0,2024-05-04,delivered,cash
+O1006,C506,Bluetooth Speaker,Electronics,1,60,6.0,54.0,2024-05-05,delivered,paypal
+O1007,C507,Yoga Mat,Sports,2,40,0.0,80.0,2024-05-06,pending,card
+O1008,C508,Smart Watch,Electronics,1,199,19.9,179.1,2024-05-07,delivered,card
+O1009,C509,Chef Knife,Home & Kitchen,1,45,4.5,40.5,2024-05-08,delivered,cash
+O1010,C510,Gym Bag,Sports,1,35,0.0,35.0,2024-05-09,cancelled,paypal
+O1011,C511,Backpack,Travel,1,75,7.5,67.5,2024-05-10,delivered,card
+O1012,C512,Keyboard,Electronics,1,50,0.0,50.0,2024-05-10,pending,cash
+O1013,C513,Sunglasses,Clothing,2,20,2.0,38.0,2024-05-11,delivered,card
+O1014,C514,Water Bottle,Sports,4,15,3.0,57.0,2024-05-12,delivered,paypal
+O1015,C515,Notebook Set,Stationery,5,10,0.0,50.0,2024-05-13,delivered,cash
+O1016,C516,Gaming Mouse,Electronics,1,80,8.0,72.0,2024-05-14,delivered,card
+O1017,C517,Winter Coat,Clothing,1,180,18.0,162.0,2024-05-15,cancelled,card
+O1018,C518,Toaster,Home & Kitchen,1,40,0.0,40.0,2024-05-16,delivered,paypal
+O1019,C519,Dumbbells,Sports,2,50,5.0,95.0,2024-05-17,delivered,card
+O1020,C520,Travel Pillow,Travel,2,25,0.0,50.0,2024-05-18,pending,cash
+O1021,C521,USB Hub,Electronics,3,15,1.5,43.5,2024-05-19,delivered,card
+O1022,C522,Denim Jeans,Clothing,1,65,6.5,58.5,2024-05-20,delivered,paypal
+O1023,C523,Blender,Home & Kitchen,1,90,0.0,90.0,2024-05-21,delivered,card
+O1024,C524,Tennis Racket,Sports,1,110,11.0,99.0,2024-05-22,pending,cash
+O1025,C525,Leather Belt,Clothing,2,30,3.0,57.0,2024-05-23,delivered,card
+O1026,C526,External SSD,Electronics,1,130,13.0,117.0,2024-05-24,delivered,paypal
+O1027,C527,Memory Foam Pillow,Home & Kitchen,2,45,4.5,85.5,2024-05-25,cancelled,card
+O1028,C528,Running Shorts,Sports,2,25,0.0,50.0,2024-05-25,delivered,cash
+O1029,C529,Mechanical Pencil,Stationery,10,2,0.2,19.8,2024-05-26,delivered,card
+O1030,C530,HDMI Cable,Electronics,5,10,1.0,49.0,2024-05-27,pending,paypal
+O1031,C531,T-Shirt Pack,Clothing,1,35,3.5,31.5,2024-05-28,delivered,card
+O1032,C532,Air Fryer,Home & Kitchen,1,120,12.0,108.0,2024-05-29,delivered,cash
+O1033,C533,Resistance Bands,Sports,3,12,0.0,36.0,2024-05-30,delivered,paypal
+O1034,C534,Suitcase,Travel,1,150,15.0,135.0,2024-05-31,delivered,card
+O1035,C535,Desk Organizer,Stationery,2,20,2.0,38.0,2024-05-31,pending,cash

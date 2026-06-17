@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+venv/
+env/
+.env
+databases/csv/*.db
+databases/schema/*.db
+databases/schema/*.sql
+databases/schema/*.json
+*.pyc
+.DS_Store
+dist/
+build/
