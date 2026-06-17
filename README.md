@@ -1,3 +1,12 @@
+---
+title: Querymind Api
+emoji: 📊
+colorFrom: blue
+colorTo: pink
+sdk: docker
+pinned: false
+---
+
 # Natural Language Data Analyst
 
 ## Overview
